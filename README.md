@@ -23,7 +23,7 @@ This is the public version of the **NiceBot**. Everyone can invite this bot to h
 You only need to invite the bot to your server to get it activated.
 
 ## Support
-You need help with the bot? Then have a look on these links:
+You need help with the bot? Then have a look on these links:<br>
 [Documentation](#) • [Discord Server](https://nicekype.dev/discord)
 
 ## License
