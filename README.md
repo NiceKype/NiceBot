@@ -1,12 +1,12 @@
-# NiceBotV2
+# NiceBot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20NICEBOT%20V2%20-8c0808.svg?style=for-the-badge"><br>
-  <a href="https://github.com/NiceKype/NiceBotV2#overview">Overview</a> •
+  <img src="https://img.shields.io/badge/%20NICEBOT%20-8c0808.svg?style=for-the-badge"><br>
+  <a href="https://github.com/NiceKype/NiceBot#overview">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
   <a href="https://nicekype.dev">Bot Website</a> •
-  <a href="#">Invite the Bot</a> •
-  <a href="https://github.com/NiceKype/NiceBotV2#license">License</a><br>
+  <a href="https://discordapp.com/api/oauth2/authorize?client_id=670419485567483904&permissions=304082160&redirect_uri=https%3A%2F%2Fdiscord.gg%2FyMhThb7&scope=bot">Invite the Bot</a> •
+  <a href="https://github.com/NiceKype/NiceBot#license">License</a><br>
   <img src="https://img.shields.io/badge/Status-In%20Planing-blue.svg" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-07.04.2020-272727.svg" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
