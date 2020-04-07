@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/%20NICEBOT%20V2%20-8c0808.svg?style=for-the-badge"><br>
   <a href="https://github.com/NiceKype/NiceBotV2#overview">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
-  <a href="#">Bot Website</a> •
+  <a href="https://nicekype.dev">Bot Website</a> •
   <a href="#">Invite the Bot</a> •
   <a href="https://github.com/NiceKype/NiceBotV2#license">License</a><br>
   <img src="https://img.shields.io/badge/Status-In%20Planing-blue.svg" alt="Status">
