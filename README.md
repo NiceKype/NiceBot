@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/%20NICEBOT%20V2%20-8c0808.svg?style=for-the-badge"><br>
-  <a href="/master#overview">Overview</a> •
+  <a href="master#overview">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
-  <a href="/master#license">License</a><br>
+  <a href="master#license">License</a><br>
   <img src="https://img.shields.io/badge/Status-In%20Planing-blue.svg" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-07.04.2020-272727.svg" alt="Update">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
