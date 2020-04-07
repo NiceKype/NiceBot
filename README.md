@@ -1,7 +1,7 @@
 # NiceBot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20NICEBOT%20-8c0808.svg?style=for-the-badge"><br>
+  <img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="100px" height="100px"><br>
   <a href="https://github.com/NiceKype/NiceBot#overview">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
   <a href="https://nicekype.dev">Bot Website</a> •
@@ -27,7 +27,7 @@ You need help with the bot? Then have a look on these links:<br>
 [Documentation](#) • [Discord Server](https://nicekype.dev/discord)
 
 ## License
-Copyright (C) 2018-2020 by NiceKype | [NK Development](https://nicekype.dev)
+Copyright © 2018-2020 by NiceKype | [NK Development](https://nicekype.dev)
 
 Don't copy my code and use it for your own!
 This product runs under the following license: https://nicekype.dev/licenses .
