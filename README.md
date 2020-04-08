@@ -19,6 +19,14 @@ This is the public version of the **NiceBot**. Everyone can invite this bot to h
 ## Features
 - Coming soon
 
+### Planned Features
+This features are planned for the future:
+
+- Advanced Ticket System - Ticket System with reactions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- Suggestion System - A system to suggest things. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- Level System - A fully customizable level system with rewards, level and rankcards. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+
 ## Installation
 You only need to invite the bot to your server to get it activated.
 
