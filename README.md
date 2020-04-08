@@ -22,8 +22,11 @@ This is the public version of the **NiceBot**. Everyone can invite this bot to h
 ### Planned Features
 This features are planned for the future:
 
+- Channel Role Count - Set the membercount of a role as channelname. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
+- Clear Command - Clears a specified number of messages. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
+- Join Message - Set a custom dm message for users that joins the server. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 - Advanced Ticket System - Ticket System with reactions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
-- Suggestion System - A system to suggest things. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- Suggestion System - A system to suggest things. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
 - Level System - A fully customizable level system with rewards, level and rankcards. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 - Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 
