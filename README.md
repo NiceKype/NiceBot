@@ -22,6 +22,11 @@ This is the public version of the **NiceBot**. Everyone can invite this bot to h
 ## Installation
 You only need to invite the bot to your server to get it activated.
 
+## Premium
+You can donate, to get premium access to the bot. Currently there is only one possible premium role.
+This works currently only manually! Pay 9,95€ to our paypal account [timogoeresmail@web.de](https://www.paypal.me/TimoGoeres), join our support discord, open a ticket and verify your payment to our support. Your ServerID get verified in our bot. After that you got access to our premium commands.
+You get a Premium role on our discord too.
+
 ## Support
 You need help with the bot? Then have a look on these links:<br>
 [Documentation](#) • [Discord Server](https://nicekype.dev/discord)
