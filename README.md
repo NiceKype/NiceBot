@@ -27,6 +27,7 @@ This features are planned for the future:
 - Join Message - Set a custom dm message for users that joins the server. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 - Advanced Ticket System - Ticket System with reactions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 - Suggestion System - A system to suggest things. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
+- Support System - A system with support opening time, support channel with moving message and more. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 - Level System - A fully customizable level system with rewards, level and rankcards. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 - Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 
