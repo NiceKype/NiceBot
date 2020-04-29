@@ -24,12 +24,12 @@ This features are planned for the future:
 
 - [ ] Channel Role Count - Set the membercount of a role as channelname. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
 - [X] ~~Clear Command - Clears a specified number of messages.~~ <img src="https://img.shields.io/badge/Status-Ready-43cc11.svg" alt="Status">
-- Join Message - Set a custom dm message for users that joins the server. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
-- Advanced Ticket System - Ticket System with reactions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
-- Suggestion System - A system to suggest things. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
-- Support System - A system with support opening time, support channel with moving message and more. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
-- Level System - A fully customizable level system with rewards, level and rankcards. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
-- Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- [ ] Join Message - Set a custom dm message for users that joins the server. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- [ ] Advanced Ticket System - Ticket System with reactions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- [ ] Suggestion System - A system to suggest things. <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
+- [ ] Support System - A system with support opening time, support channel with moving message and more. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- [ ] Level System - A fully customizable level system with rewards, level and rankcards. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
+- [ ] Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 
 ## Installation
 You only need to invite the bot to your server to get it activated.
@@ -48,4 +48,6 @@ You need help with the bot? Then have a look on these links:<br>
 Don't copy my code and use it for your own!
 This product runs under the following license: https://nicekype.dev/licenses .
 
-<img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="40px" height="40px" style="float:left; margin: 0 10px;">Copyright © 2018-2020 by NiceKype | [NK Development](https://nicekype.dev)<br>Created with ❤️ by [NiceKype](https://nicekype.de)
+<img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="40px" height="40px" style="margin: 10px 0;"><br>
+Copyright © 2018-2020 by NiceKype | [NK Development](https://nicekype.dev)<br>
+Created with ❤️ by [NiceKype](https://nicekype.de)
