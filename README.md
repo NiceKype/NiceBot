@@ -17,6 +17,8 @@
 This is the public version of the **NiceBot**. Everyone can invite this bot to his server to get a allround bot with some features.
 
 ## Features
+This functions are currently in the nicebot that you can use.
+
 - Coming soon
 
 ### Planned Features
