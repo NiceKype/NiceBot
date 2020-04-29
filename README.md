@@ -48,6 +48,8 @@ You need help with the bot? Then have a look on these links:<br>
 Don't copy my code and use it for your own!
 This product runs under the following license: https://nicekype.dev/licenses .
 
+<p align="center">
 <img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="40px" height="40px" style="margin: 10px 0;"><br>
-Copyright © 2018-2020 by NiceKype | [NK Development](https://nicekype.dev)<br>
-Created with ❤️ by [NiceKype](https://nicekype.de)
+Copyright © 2018-2020 by NiceKype | <a href="https://nicekype.dev">NK Development</a><br>
+Created with ❤️ by <a href="https://nicekype.de">NiceKype</a>
+</p>
