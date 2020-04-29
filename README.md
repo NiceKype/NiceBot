@@ -1,4 +1,4 @@
-# NiceBot <img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="20px" height="20px">
+# NiceBot <img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="30px" height="30px">
 
 <p align="center">
   <img src="https://nicekype.dev/images/nicebot/NiceBot-Banner-V2.png"><br>
