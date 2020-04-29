@@ -52,7 +52,7 @@ This product runs under the following license: https://nicekype.dev/licenses .
 
 <br>
 <p align="center">
-<img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="40px" height="40px" style="margin: 10px 0;"><br>
+<a href="https://github.com/NiceKype/NiceBot"><img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="40px" height="40px" style="margin: 10px 0;"></a><br>
 Copyright © 2018-2020 by NiceKype | <a href="https://nicekype.dev">NK Development</a><br>
 Created with ❤️ by <a href="https://nicekype.de">NiceKype</a>
 </p>
