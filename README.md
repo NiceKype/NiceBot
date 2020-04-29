@@ -1,7 +1,7 @@
 # NiceBot <img src="https://nicekype.dev/images/nicebot/NiceBot-Avatar-Round.png" width="20px" height="20px">
 
 <p align="center">
-  <img src="https://nicekype.dev/images/nicebot/NiceBot-Banner.png"><br>
+  <img src="https://nicekype.dev/images/nicebot/NiceBot-Banner-V2.png"><br>
   <a href="https://github.com/NiceKype/NiceBot#overview">Overview</a> •
   <a href="/CHANGELOG.md">Changelog</a> •
   <a href="https://nicekype.dev">Bot Website</a> •
