@@ -9,7 +9,7 @@
   <a href="https://github.com/NiceKype/NiceBot#license">License</a><br>
   <img src="https://img.shields.io/badge/Status-WIP-ed6f00.svg" alt="Status">
   <img src="https://img.shields.io/badge/Last%20Update-26.11.2020-272727.svg" alt="Update">
-  <img src="https://img.shields.io/badge/Version-1.0.2-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.3-blue.svg" alt="Version">
   <img src="https://discordapp.com/api/guilds/599013820513648640/widget.png" alt="Discord" href="https://nicekype.dev/discord">
 </p>
 
