@@ -35,7 +35,8 @@ This features are planned for the future:
 - [ ] Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 
 ## Installation
-Currently not possible.
+> [!WARNING]
+> Currently not possible.
 
 ## Premium
 You can donate, to get premium access to the bot. Currently there is only one possible premium role.
