@@ -14,8 +14,8 @@
 </p>
 
 ## Overview
-The **NiceBot** is a Allrounder Bot that is currently WIP. So that means, it's not available right now. But you can see the progress here and have a look what features the bot has in the future.
-Stay tuned for the release ;)
+> [!IMPORTANT]
+> The **NiceBot** is a Allrounder Bot that is currently WIP. So that means, it's not available right now. But you can see the progress here and have a look what features the bot has in the future. Stay tuned for the release ;)
 
 ## Features
 This functions are currently in the nicebot that you can use.
