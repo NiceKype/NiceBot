@@ -14,7 +14,8 @@
 </p>
 
 ## Overview
-This is the public version of the **NiceBot**. Everyone can invite this bot to his server to get a allround bot with some features.
+The **NiceBot** is a Allrounder Bot that is currently WIP. So that means, it's not available right now. But you can see the progress here and have a look what features the bot has in the future.
+Stay tuned for the release ;)
 
 ## Features
 This functions are currently in the nicebot that you can use.
@@ -34,7 +35,7 @@ This features are planned for the future:
 - [ ] Website with dashboard - A Website with dashboard for the bot with all functions. <img src="https://img.shields.io/badge/Status-Not%20Set-black.svg" alt="Status">
 
 ## Installation
-You only need to invite the bot to your server to get it activated.
+Currently not possible.
 
 ## Premium
 You can donate, to get premium access to the bot. Currently there is only one possible premium role.
